@@ -1,0 +1,13 @@
+[
+  { "id": 1, "nama": "Abdul", "target": 1000000, "output": 960000 },
+  { "id": 2, "nama": "Budi", "target": 1000000, "output": 420000 },
+  { "id": 3, "nama": "Beni", "target": 1000000, "output": 1100000 },
+  { "id": 4, "nama": "Rian", "target": 1000000, "output": 950000 },
+  { "id": 5, "nama": "Romi", "target": 1000000, "output": 1000500 },
+  { "id": 6, "nama": "Farhan", "target": 1000000, "output": 550000 },
+  { "id": 7, "nama": "Krisna", "target": 1000000, "output": 953000 },
+  { "id": 8, "nama": "Fajar", "target": 1000000, "output": 1053000 },
+  { "id": 9, "nama": "Heri", "target": 1000000, "output": 876300 },
+  { "id": 10, "nama": "Nopri", "target": 1000000, "output": 300000 },
+  { "id": 11, "nama": "Dermawan", "target": 1000000, "output": 989000 }
+]
